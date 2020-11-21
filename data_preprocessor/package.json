@@ -1,0 +1,19 @@
+{
+  "name": "excel_data_copy_sarathy_anna",
+  "version": "1.0.0",
+  "description": "uses exceljs library to merge data in multiple csv files into one",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "exceljs",
+    "mergeing",
+    "data"
+  ],
+  "author": "Dinesh Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.0"
+  }
+}
